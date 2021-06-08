@@ -1,0 +1,5 @@
+<div class="container">
+    <text>
+        Count: {{ count }}
+    </text>
+</div>
