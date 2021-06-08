@@ -1,0 +1,5 @@
+<div class="container">
+    <button type="capsule" @click="btnClicked">
+        Click me
+    </button>
+</div>
